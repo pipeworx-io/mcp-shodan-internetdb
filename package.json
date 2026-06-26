@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-shodan-internetdb",
+  "version": "0.1.0",
+  "description": "Shodan InternetDB MCP — wraps Shodan InternetDB (internetdb.shodan.io)",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "shodan-internetdb"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-shodan-internetdb"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
