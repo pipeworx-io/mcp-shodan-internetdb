@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/shodan-internetdb",
   "title": "Shodan Internetdb",
   "description": "Shodan InternetDB MCP — wraps Shodan InternetDB (internetdb.shodan.io)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/shodan-internetdb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-shodan-internetdb",
