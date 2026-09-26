@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-shodan-internetdb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shodan InternetDB MCP — wraps Shodan InternetDB (internetdb.shodan.io)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d56be43429ed23506eca53ad053255e346b7fe6870f63441f64eb1828cfc9d09",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-a2ddcc2cb178d5400ac48f75bba5c924317fac44253a248a12786d103af564f7",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
