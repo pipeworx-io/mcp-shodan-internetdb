@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lookup_ip",
+    "description": "Look up an IP address in the Shodan InternetDB. Returns open ports, hostnames, known vulnerabilities (CVEs), CPEs (software identifiers), and tags. Free, no API key needed. Example: lookup_ip(\"8.8.8.8\").",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "ip": {
+          "type": "string",
+          "description": "IPv4 address to look up (e.g., \"8.8.8.8\")"
+        }
+      },
+      "required": [
+        "ip"
+      ]
+    }
+  }
+]
