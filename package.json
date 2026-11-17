@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-shodan-internetdb",
-  "version": "0.2.1",
-  "description": "Shodan InternetDB MCP — wraps Shodan InternetDB (internetdb.shodan.io)",
+  "version": "0.2.2",
+  "description": "Unofficial Shodan InternetDB MCP — wraps Shodan InternetDB (internetdb.shodan.io)",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "shodan-internetdb",
     "gatewaySlug": "shodan-internetdb",
-    "sourceHash": "v1-e8a4d619ccc4294986f3224b6244c9d96baa1d0a5cdbafa0403edb2783b6e16f",
-    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
+    "sourceHash": "v1-7c63e58b369e9548bd5d397e82f9950d067af1aecd69aaae76ec0aa0ad38ec4e",
+    "sourceCommit": "6e7ae693219a515a7ee6dd88d02390ab290fbad3"
   }
 }
